@@ -10,8 +10,8 @@ body{
     border: 1px solid black;
     background-color: hsl(216, 50%, 16%);
     margin-left: 500px;
-    margin-top: 30px;
-    margin-bottom:10px;
+    margin-top: 50px;
+    margin-bottom:12px;
     margin-right: 50px;
     height: 80vh;
     width: 400px;
@@ -20,7 +20,7 @@ body{
 }
 .equilibrium{
     width: 300px;
-    margin: 20px 80px 10px 50px;
+    margin: 30px 80px 20px 50px;
     border-radius: 10px;
 }
 .icons-one{
